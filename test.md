@@ -10,7 +10,8 @@ It was <i>originally released in 1980.</i><br>
 ```{css}
 h2 {
   color: #ffffff; 
-  background-color: #dbecf8; 
+  background-color:#80b8b6 ; 
   padding: 10px
 }
+body {background-color: #dbecf8;}
 ```
